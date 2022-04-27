@@ -1,7 +1,7 @@
 # Cinema service
 
 ## Project description:
-This is an example realization of a simple ticket sell service for cinema (REST API), to selling tickets, adding new movies, user login using spring security auth.
+This is an example realization of a simple ticket selling service for the cinema (REST API), for selling tickets, adding new movies, and allowing users to login using Spring Security auth.
 
 
 # Functions:
